@@ -45,7 +45,7 @@ It contains information such as:
 - NumPy
 - Matplotlib
 - Seaborn
-- Google Colab / Jupyter Notebook
+- Google Colab
 
 ## 🔍 Data Cleaning
 
