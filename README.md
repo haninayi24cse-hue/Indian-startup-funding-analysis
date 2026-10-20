@@ -27,6 +27,13 @@ The dataset used in this project is the **Indian Startup Funding Dataset**.
 
 📂 [Dataset – Indian Startup Funding](https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding)
 
+## 🚀 Run Project in Google Colab
+
+📊 **Indian Startup Funding Analysis**
+
+👉 [🔗 Open in Google Colab](https://colab.research.google.com/drive/1K9DGcmhXtYDiZRRWvza1AQu0-VZwC8_w?usp=sharing)
+
+
 It contains information such as:
 
 - Startup Name
